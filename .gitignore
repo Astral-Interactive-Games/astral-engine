@@ -12,3 +12,6 @@ profile.svg
 
 # Time trace
 trace.json
+
+# Roblox standard library
+roblox.yml
